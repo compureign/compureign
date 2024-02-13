@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, World!
+
+Not much to see around here, at least for now. I'm currently organizing my projects that I want to make public. Stay tuned for updates!
 
 <!--
 **compureign/compureign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
